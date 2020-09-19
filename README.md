@@ -1,7 +1,11 @@
 # Tennsy3.6-Ethernet
 
 
-## Development Environment
+Using Tennsy 3.6 for Art-Net communication 
+
+
+
+### Development Environment
 Teensy3.6 + Wiz850io
 
 ### PIN assign
