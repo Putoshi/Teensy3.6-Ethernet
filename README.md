@@ -6,6 +6,10 @@ Teensy3.6 + Wiz850io
 
 ### PIN assign
 
+![Screenshot of Google Chrome (2020-09-18 15-36-22)](https://user-images.githubusercontent.com/8611393/93666747-9f7fc280-fabb-11ea-8f7b-ebc81789bb5e.png)
+![Screenshot of Google Chrome (2020-09-18 15-40-24)](https://user-images.githubusercontent.com/8611393/93666748-a3134980-fabb-11ea-930a-e3811ba7f083.png)
+
+
 ### Wiring
 
 |  Teensy 3.6 Pins  |  WIZ850io Pins  |
